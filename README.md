@@ -1,2 +1,3 @@
-# Data-Averages-By-Month
-Get USGS discharge data or input any other data from a csv file and view the plot for each month's average.
+### Data-Averages-By-Month
+## Get USGS discharge data or input any other data from a csv file and view the plot for each month's average.
+When you run this code it will ask you to input either a USGS station number or a csv file. If you input a station number, it will ask you to input a start date and an end date of the discharge data that you want to pull. If you insert a csv file, make sure one your first column has dates and the second column has your data. It can be any data that you want the monthly averages for. Then it will display a graph with the average data value for January across all Januarys and February across all Februarys etc. for your chosen time frame.
